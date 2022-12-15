@@ -1,0 +1,12 @@
+---
+:id: 104045879
+:submitters:
+- :name: Nithya Gottipati
+  :email: nithyagottipati@college.harvard.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-12-08 04:55:08.585503000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-12-07 20:55:08.585503000 Z
+:status: processed
+:score: 21.0
